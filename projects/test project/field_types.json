@@ -1,0 +1,1 @@
+{"dimension": ["Ship Mode", "Customer Name", "Segment", "City", "State", "Country", "Postal Code", "Market", "Region", "Category", "Product Name", "Order Priority", "SubCategory"], "measure": ["Sales", "Profit", "Shipping Cost", "Quantity", "Discount"], "date": ["Order Date", "Ship Date"], "id": ["Row ID", "Order ID", "Customer ID", "Product ID"]}
